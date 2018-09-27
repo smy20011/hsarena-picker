@@ -1,8 +1,9 @@
 FROM ufoym/deepo:all-jupyter-py36
 
 RUN apt-get update && \
-    apt-get install -y --no-install-recommends xvfb python-opengl && \
-    pip install gym && \
+    apt-get install -y --no-install-recommends \
+        xvfb python-opengl openjdk-8-jdk && \
+    pip install gym spellsource && \
     rm -rf /var/lib/apt/lists/*
 
 EXPOSE 8888
