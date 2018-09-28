@@ -1,0 +1,3 @@
+[submodule "Spellsource-Server"]
+	path = Spellsource-Server
+	url = https://github.com/smy20011/Spellsource-Server
