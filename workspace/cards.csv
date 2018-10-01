@@ -111,7 +111,7 @@ Druid,Mossy Horror,epic,Minion,neutral,0.31684,0.27776,0.03594,0.00291
 Druid,Worgen Abomination,epic,Minion,neutral,0.30998,0.27136,0.03546,0.0031
 Druid,Acidic Swamp Ooze,basic,Minion,neutral,0.28952,0.25277,0.03328,0.00324
 Druid,Earthen Ring Farseer,common,Minion,neutral,0.2892,0.25151,0.03438,0.00311
-Druid,Weaponized Pi??ata,epic,Minion,neutral,0.28683,0.25258,0.03168,0.00243
+Druid,Weaponized Piñata,epic,Minion,neutral,0.28683,0.25258,0.03168,0.00243
 Druid,Nightmare Amalgam,epic,Minion,neutral,0.28565,0.25263,0.03058,0.0023
 Druid,Faerie Dragon,common,Minion,neutral,0.28245,0.24695,0.03242,0.00291
 Druid,Argent Commander,rare,Minion,neutral,0.27731,0.24577,0.02932,0.00209
@@ -541,7 +541,7 @@ Hunter,Nightmare Amalgam,epic,Minion,neutral,0.30411,0.26694,0.03439,0.00262
 Hunter,Mossy Horror,epic,Minion,neutral,0.30393,0.26617,0.03484,0.00277
 Hunter,Fallen Sun Cleric,common,Minion,neutral,0.30117,0.26029,0.03713,0.00343
 Hunter,Necrotic Geist,common,Minion,neutral,0.29972,0.2596,0.0364,0.0035
-Hunter,Weaponized Pi??ata,epic,Minion,neutral,0.29346,0.25802,0.03267,0.0026
+Hunter,Weaponized Piñata,epic,Minion,neutral,0.29346,0.25802,0.03267,0.0026
 Hunter,Tracking,basic,Spell,hunter,0.28735,0.25162,0.03269,0.00284
 Hunter,Mind Control Tech,rare,Minion,neutral,0.28192,0.24933,0.02998,0.00249
 Hunter,Rockpool Hunter,common,Minion,neutral,0.28145,0.24692,0.03181,0.00252
@@ -985,7 +985,7 @@ Mage,Charged Devilsaur,epic,Minion,neutral,0.29173,0.2571,0.03192,0.00257
 Mage,Mad Bomber,common,Minion,neutral,0.29108,0.25411,0.03382,0.00297
 Mage,Chillwind Yeti,basic,Minion,neutral,0.29069,0.25406,0.03368,0.00284
 Mage,Scarlet Crusader,common,Minion,neutral,0.28808,0.25075,0.0341,0.00303
-Mage,Weaponized Pi??ata,epic,Minion,neutral,0.28767,0.25299,0.03239,0.00221
+Mage,Weaponized Piñata,epic,Minion,neutral,0.28767,0.25299,0.03239,0.00221
 Mage,Bittertide Hydra,epic,Minion,neutral,0.28618,0.25257,0.03135,0.00223
 Mage,Mossy Horror,epic,Minion,neutral,0.28593,0.25233,0.03127,0.00226
 Mage,Nightmare Amalgam,epic,Minion,neutral,0.2858,0.25215,0.03106,0.00244
@@ -1416,7 +1416,7 @@ Paladin,Bittertide Hydra,epic,Minion,neutral,0.33168,0.28813,0.04001,0.00337
 Paladin,Sunborne Val'kyr,common,Minion,neutral,0.3259,0.28009,0.04157,0.0039
 Paladin,Necrotic Geist,common,Minion,neutral,0.32585,0.27939,0.04205,0.00414
 Paladin,Dinosize,epic,Spell,paladin,0.32476,0.2819,0.03956,0.00318
-Paladin,Weaponized Pi??ata,epic,Minion,neutral,0.32455,0.28214,0.03904,0.00312
+Paladin,Weaponized Piñata,epic,Minion,neutral,0.32455,0.28214,0.03904,0.00312
 Paladin,Fallen Sun Cleric,common,Minion,neutral,0.32098,0.27493,0.04167,0.0041
 Paladin,Vicious Scalehide,common,Minion,neutral,0.31572,0.27277,0.03916,0.00354
 Paladin,Marsh Drake,common,Minion,neutral,0.31428,0.27103,0.03964,0.00347
@@ -1865,7 +1865,7 @@ Priest,Primordial Drake,epic,Minion,neutral,0.29742,0.26184,0.0331,0.00239
 Priest,Spiteful Summoner,epic,Minion,neutral,0.28712,0.25366,0.03112,0.00224
 Priest,Spellbreaker,common,Minion,neutral,0.285,0.24911,0.03278,0.00291
 Priest,Nightmare Amalgam,epic,Minion,neutral,0.27546,0.24434,0.02894,0.00203
-Priest,Weaponized Pi??ata,epic,Minion,neutral,0.27454,0.24347,0.02898,0.00201
+Priest,Weaponized Piñata,epic,Minion,neutral,0.27454,0.24347,0.02898,0.00201
 Priest,Circle of Healing,common,Spell,priest,0.27369,0.24103,0.0301,0.00246
 Priest,Fallen Sun Cleric,common,Minion,neutral,0.26251,0.23253,0.02772,0.00216
 Priest,Replicating Menace,rare,Minion,neutral,0.26055,0.23058,0.02782,0.00202
@@ -2281,7 +2281,7 @@ Rogue,Sunborne Val'kyr,common,Minion,neutral,0.35366,0.30041,0.0481,0.00468
 Rogue,Saronite Chain Gang,rare,Minion,neutral,0.3522,0.30261,0.04514,0.00412
 Rogue,Lesser Onyx Spellstone,rare,Spell,rogue,0.34514,0.29367,0.04648,0.00457
 Rogue,Corrosive Sludge,common,Minion,neutral,0.34029,0.28984,0.04549,0.00458
-Rogue,Weaponized Pi??ata,epic,Minion,neutral,0.33521,0.28998,0.04142,0.00358
+Rogue,Weaponized Piñata,epic,Minion,neutral,0.33521,0.28998,0.04142,0.00358
 Rogue,Sated Threshadon,common,Minion,neutral,0.33439,0.28465,0.04467,0.00472
 Rogue,Fallen Sun Cleric,common,Minion,neutral,0.32989,0.28283,0.04257,0.00416
 Rogue,Necrotic Geist,common,Minion,neutral,0.32725,0.27991,0.04237,0.00455
@@ -2731,7 +2731,7 @@ Shaman,Chillwind Yeti,basic,Minion,neutral,0.30355,0.26357,0.03653,0.00317
 Shaman,Mad Bomber,common,Minion,neutral,0.3014,0.26062,0.03716,0.00341
 Shaman,Earthen Ring Farseer,common,Minion,neutral,0.29312,0.25576,0.03409,0.00299
 Shaman,Acidic Swamp Ooze,basic,Minion,neutral,0.29307,0.25537,0.0342,0.00325
-Shaman,Weaponized Pi??ata,epic,Minion,neutral,0.29259,0.25773,0.03238,0.00236
+Shaman,Weaponized Piñata,epic,Minion,neutral,0.29259,0.25773,0.03238,0.00236
 Shaman,Nightmare Amalgam,epic,Minion,neutral,0.29215,0.25723,0.0322,0.00262
 Shaman,Omega Mind,epic,Minion,shaman,0.29195,0.25531,0.03345,0.00297
 Shaman,Mossy Horror,epic,Minion,neutral,0.29032,0.25595,0.0317,0.00252
@@ -3160,7 +3160,7 @@ Warlock,Worgen Abomination,epic,Minion,neutral,0.31983,0.27805,0.03814,0.00346
 Warlock,Bittertide Hydra,epic,Minion,neutral,0.31475,0.27418,0.03737,0.00301
 Warlock,Bloodsail Raider,common,Minion,neutral,0.3135,0.27048,0.03881,0.00379
 Warlock,Mossy Horror,epic,Minion,neutral,0.30912,0.2705,0.03554,0.00288
-Warlock,Weaponized Pi??ata,epic,Minion,neutral,0.30418,0.26646,0.0347,0.00283
+Warlock,Weaponized Piñata,epic,Minion,neutral,0.30418,0.26646,0.0347,0.00283
 Warlock,Nightmare Amalgam,epic,Minion,neutral,0.30404,0.26666,0.03445,0.00276
 Warlock,Despicable Dreadlord,rare,Minion,warlock,0.29832,0.262,0.03365,0.00255
 Warlock,Deathweb Spider,epic,Minion,warlock,0.29607,0.25909,0.03401,0.00283
@@ -3605,7 +3605,7 @@ Warrior,Scarlet Crusader,common,Minion,neutral,0.29525,0.25702,0.03503,0.003
 Warrior,Acidic Swamp Ooze,basic,Minion,neutral,0.2892,0.25184,0.03427,0.00286
 Warrior,Hoarding Dragon,common,Minion,neutral,0.28919,0.25312,0.03336,0.00247
 Warrior,Nightmare Amalgam,epic,Minion,neutral,0.27875,0.24683,0.02969,0.00215
-Warrior,Weaponized Pi??ata,epic,Minion,neutral,0.27742,0.24575,0.02953,0.00203
+Warrior,Weaponized Piñata,epic,Minion,neutral,0.27742,0.24575,0.02953,0.00203
 Warrior,Argent Commander,rare,Minion,neutral,0.2703,0.24,0.02822,0.00194
 Warrior,Sunwalker,rare,Minion,neutral,0.2655,0.23599,0.02747,0.00197
 Warrior,Wild Pyromancer,rare,Minion,neutral,0.2645,0.23612,0.02636,0.00195
